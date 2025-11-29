@@ -102,7 +102,7 @@ Frameworks & Tools
 <h2 align="center">🟧 LeetCode Stats</h2>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Dharanish07?theme=light&font=Anonymous%20Pro" />
+  <img src="![LeetCode Stats](https://leetcard.jacoblin.cool/Dharanish07?theme=dark&font=Anonymous%20Pro&ext=heatmap)" />
 </p>
 <h2 align="center">📈 GitHub Activity Graph</h2>
 
