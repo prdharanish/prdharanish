@@ -69,19 +69,22 @@ Annai Memorial Matric Higher Secondary School
 
 🛠️ Tech Stack
 Languages
+
 <img height="45" src="https://img.icons8.com/color/48/html-5.png"/> <img height="45" src="https://img.icons8.com/color/48/css3.png"/> <img height="45" src="https://img.icons8.com/color/48/javascript.png"/> <img height="45" src="https://img.icons8.com/color/48/c-programming.png"/> <img height="45" src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/> <img height="45" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> <img height="45" src="https://img.icons8.com/color/48/python.png"/>
 
 Frameworks & Tools
-<img height="45" src="https://img.icons8.com/color/48/react-native.png"/> <img height="45" src="https://img.icons8.com/color/48/nodejs.png"/> <img height="45" src="https://img.icons8.com/color/48/mongodb.png"/> <img height="45" src="https://img.icons8.com/color/48/mysql-logo.png"/> <img height="45" src="https://img.icons8.com/color/48/google-firebase-console.png"/> <img height="45" src="https://img.icons8.com/color/48/git.png"/> <img height="45" src="https://img.icons8.com/color/48/figma--v1.png"/>
+
+<img height="45" src="https://img.icons8.com/color/48/react-native.png"/> <img height="45" src="https://img.icons8.com/color/48/nodejs.png"/> <img height="45" src="https://img.icons8.com/color/48/mongodb.png"/> <img height="45" src="https://img.icons8.com/color/48/mysql-logo.png"/> <img height="45" src="https://img.icons8.com/color/48/google-firebase-console.png"/> <img height="45" src="https://img.icons8.com/color/48/figma--v1.png"/>
 
 💻 Tools & IDEs
+
 <img height="45" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> <img height="45" src="https://img.icons8.com/color/48/pycharm.png"/> <img height="45" src="https://img.icons8.com/color/48/java-eclipse.png"/> <img height="45" src="https://img.icons8.com/color/48/notion--v1.png"/>
 
 🏆 Achievements
 
 ✔ 250+ LeetCode problems solved
 
-✔ 3rd place — National Technical Hackathon (PHARMATIAN 2K24)
+✔ 3rd place — National Technical Hackathon 
 
 ✔ Yukta ’23 – Paper Presentation
 
@@ -93,6 +96,11 @@ Frameworks & Tools
 ✔ Hackathon + Paper Presentation Certificates
 
 🟧 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/Dharanish07?theme=light&font=Anonymous%20Pro)
+
+📈 GitHub Activity Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prdharanish&bg_color=ffffff&color=000000&line=9be9a8&point=1c7d36&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
