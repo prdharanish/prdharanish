@@ -54,7 +54,6 @@ Frameworks & Tools
 🕊️ Social Media App – MERN + React Query + Tailwind
 
 🗂️ Plant Disease Detector – Python + ML
-
-⚙️ GitHub Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/Dharanish07?theme=light&font=Anonymous%20Pro)
 
 ⚡ LeetCode Progress
