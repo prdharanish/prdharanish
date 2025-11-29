@@ -44,12 +44,6 @@ Annai Memorial Matric Higher Secondary School
 ✔ Cloudinary image uploads
 ✔ Tailwind + Node + MongoDB
 
-🧾 Excel Analytics Platform – MERN (Under Development)
-
-✔ Excel upload
-✔ JWT authentication
-✔ File history & analytics
-
 🌱 Plant Disease Detector – Python + ML
 
 ✔ Image prediction
@@ -76,13 +70,16 @@ Annai Memorial Matric Higher Secondary School
 🛠️ Tech Stack
 Languages
 <img height="45" src="https://img.icons8.com/color/48/html-5.png"/> <img height="45" src="https://img.icons8.com/color/48/css3.png"/> <img height="45" src="https://img.icons8.com/color/48/javascript.png"/> <img height="45" src="https://img.icons8.com/color/48/c-programming.png"/> <img height="45" src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/> <img height="45" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> <img height="45" src="https://img.icons8.com/color/48/python.png"/>
+
 Frameworks & Tools
 <img height="45" src="https://img.icons8.com/color/48/react-native.png"/> <img height="45" src="https://img.icons8.com/color/48/nodejs.png"/> <img height="45" src="https://img.icons8.com/color/48/mongodb.png"/> <img height="45" src="https://img.icons8.com/color/48/mysql-logo.png"/> <img height="45" src="https://img.icons8.com/color/48/google-firebase-console.png"/> <img height="45" src="https://img.icons8.com/color/48/git.png"/> <img height="45" src="https://img.icons8.com/color/48/figma--v1.png"/>
+
 💻 Tools & IDEs
 <img height="45" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> <img height="45" src="https://img.icons8.com/color/48/pycharm.png"/> <img height="45" src="https://img.icons8.com/color/48/java-eclipse.png"/> <img height="45" src="https://img.icons8.com/color/48/notion--v1.png"/>
+
 🏆 Achievements
 
-✔ 200+ LeetCode problems solved
+✔ 250+ LeetCode problems solved
 
 ✔ 3rd place — National Technical Hackathon (PHARMATIAN 2K24)
 
@@ -97,4 +94,6 @@ Frameworks & Tools
 
 🟧 LeetCode Stats
 
-📈 GitHub Activity Graph
+
+
+
