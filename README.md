@@ -23,7 +23,7 @@ Aspiring Software Developer | MERN Stack | React | Express | SQL | DSA
 PSNA College of Engineering and Technology
 
 💻 B.E. Computer Science and Engineering (2023–Present)
-📊 CGPA: 8.35
+📊 CGPA: 8.95
 
 Annai Memorial Matric Higher Secondary School
 
