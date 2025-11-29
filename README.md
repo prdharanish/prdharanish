@@ -25,12 +25,13 @@ PSNA College of Engineering and Technology
 💻 B.E. Computer Science and Engineering (2023–Present)
 📊 CGPA: 8.95
 
-Annai Memorial Matric Higher Secondary School
+Ananth Memorial Matric Higher Secondary School
 
 📘 HSC – Bio-Maths (2022–2023)
 🏆 Score: 90.66%
 
 🚀 Projects
+
 📦 E-Commerce Website
 
 ✔ Responsive design
@@ -51,6 +52,7 @@ Annai Memorial Matric Higher Secondary School
 ✔ Python + CV algorithms
 
 💼 Internships
+
 💻 MERN Stack Developer Intern – DotCom Infoway
 
 ✔ Built Twitter Clone (MERN)
@@ -78,7 +80,8 @@ Frameworks & Tools
 
 💻 Tools & IDEs
 
-<img height="45" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> <img height="45" src="https://img.icons8.com/color/48/pycharm.png"/> <img height="45" src="https://img.icons8.com/color/48/java-eclipse.png"/> <img height="45" src="https://img.icons8.com/color/48/notion--v1.png"/>
+<img height="45" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> <img height="45" src="https://img.icons8.com/color/48/pycharm.png"/> <img height="45" src="https://img.icons8.com/color/48/eclipse.png"/>
+
 
 🏆 Achievements
 
@@ -95,11 +98,19 @@ Frameworks & Tools
 ✔ Introduction to MongoDB — MongoDB University
 ✔ Hackathon + Paper Presentation Certificates
 
-🟧 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/Dharanish07?theme=light&font=Anonymous%20Pro)
 
-📈 GitHub Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prdharanish&bg_color=ffffff&color=000000&line=9be9a8&point=1c7d36&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h2 align="center">🟧 LeetCode Stats</h2>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Dharanish07?theme=light&font=Anonymous%20Pro" />
+</p>
+<h2 align="center">📈 GitHub Activity Graph</h2>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=prdharanish&bg_color=ffffff&color=000000&line=9be9a8&point=1c7d36&area=true&hide_border=true" />
+  </a>
+</p>
 
 
 
