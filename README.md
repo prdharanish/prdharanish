@@ -5,12 +5,19 @@ Aspiring Software Developer | MERN Stack | React | Express | SQL | DSA
 <img align="right" width="350" height="280" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 🌱 I’m currently learning MERN Stack, React Query, Express, MongoDB, DSA
+
 🔥 Building Social Media App, E-Commerce Website, Plant Disease Detector
+
 🎯 Preparing for placements + DSA + projects
+
 💼 Working on React + Express full-stack projects
+
 📘 Completed NPTEL – Java, Python Courses
+
 ✨ Interested in AI Integration, Backend APIs, Cloudinary, SQL
+
 🖤 I love black UI themes and clean project structures
+
 ⚡ Fun fact: I can code for hours when the flow hits 😄
 
 🔗 Social Presence
