@@ -102,8 +102,9 @@ Frameworks & Tools
 <h2 align="center">🟧 LeetCode Stats</h2>
 
 <p align="center">
-  <img src="![LeetCode Stats](https://leetcard.jacoblin.cool/Dharanish07?theme=dark&font=Anonymous%20Pro&ext=heatmap)" />
+  <img src="https://leetcard.jacoblin.cool/Dharanish07?theme=dark&font=Anonymous%20Pro&ext=heatmap" />
 </p>
+
 <h2 align="center">📈 GitHub Activity Graph</h2>
 
 <p align="center">
@@ -111,7 +112,6 @@ Frameworks & Tools
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=prdharanish&bg_color=ffffff&color=000000&line=9be9a8&point=1c7d36&area=true&hide_border=true" />
   </a>
 </p>
-
 
 
 
