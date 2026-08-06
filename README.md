@@ -92,7 +92,7 @@ Frameworks & Tools
 
 🏆 Achievements
 
-✔ 250+ LeetCode problems solved
+✔ 300+ LeetCode problems solved
 
 ✔ 3rd place — National Technical Hackathon 
 
